@@ -3,10 +3,13 @@ import java.awt.*;
 
 public class JFrameIcon extends JFrame{
 
-    ImageIcon im;
+    private ImageIcon im;
+    private Container c;
     public JFrameIcon(){
         im = new ImageIcon(getClass().getResource("gub logo.png"));
         this.setIconImage(im.getImage());
+        c = this.getContentPane();
+        c.setBackground(Color.lightGray);
     }
 
     public static void main(String[] args) {
