@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffb3effc-e379-4a15-af4c-f10d4133583f" name="Changes" comment="2.1 commit">
+    <list default="true" id="ffb3effc-e379-4a15-af4c-f10d4133583f" name="Changes" comment="5 JFrame background">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JFrameIcon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JFrameIcon.java" afterDir="false" />
     </list>
@@ -32,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Java program/First Project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java program/First Project&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.JFrameIcon">
     <configuration name="JFrameIcon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JFrameIcon" />
@@ -54,9 +54,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="Swing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.JFrameIcon" />
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -91,13 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683392995775</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5 JFrame background">
+      <created>1683394200860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683394200860</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="2nd and 3rd commit" />
     <MESSAGE value="2.1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.1 commit" />
+    <MESSAGE value="5 JFrame background" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 JFrame background" />
   </component>
 </project>
